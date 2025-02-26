@@ -1,10 +1,5 @@
 [
-     {
-      "title": "March Product News 2024",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Fs%20and%20Files/QTP%20Product%20News%20-%20March%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/spring_product_news_2025",
-      "date": "2024-02-26"
-    },{
+    {
       "title": "Product News December 2024",
       "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20December%202024.jpg", 
       "pdfUrl": "https://issuu.com/qtponline/docs/new_december_product_news_05.12.24?fr=xKAE9_zU1NQ",
@@ -51,6 +46,12 @@
         "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20Spring%202024.png",
         "pdfUrl": "https://issuu.com/qtponline/docs/march-product-news-2024-issue-3",
         "date": "2024-06-01"
-      }
+      },
+      {
+      "title": "March Product News 2024",
+      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Fs%20and%20Files/QTP%20Product%20News%20-%20March%202025.jpg", 
+      "pdfUrl": "https://issuu.com/qtponline/docs/spring_product_news_2025",
+      "date": "2024-02-26"
+    }
   ]
   
