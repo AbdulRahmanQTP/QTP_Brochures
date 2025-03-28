@@ -1,0 +1,97 @@
+[
+      {
+        "title": "Massey Ferguson",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/2a/2a4ed3ed03f2379da885cc214ef2ef07ff8b5fd2.png",
+        "pdfUrl": "https://issuu.com/qtponline/docs/2_massey_ea4de8fcdb95b8?fr=sZDlhZTU2OTU3NDI",
+        "date": "2023-09-01"
+      },{
+        "title": "John Deere",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/c9/c938e258ddb8fb366cb9e54d47bb3c4d7cbf6323.png",
+        "pdfUrl": "https://issuu.com/qtponline/docs/7_john_deere_6d63d974c52d57?fr=sYmM4YTExNDM3MQ",
+        "date": "2023-08-24"
+      },
+      {
+        "title": "JCB",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/f6/f6afdda0b715b133b5f81e02d1e48d1c6f84c246.png",
+        "pdfUrl": "https://issuu.com/qtponline/docs/19_jcb_web?e=1933007/40513788",
+        "date": "2022-05-19"
+      },
+      {
+        "title": "New Holland & Ford",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/29/29d29fe62c66423fd68f80ca8b0fec0c4facd21c.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/4_ford_newholland?fr=sOTdmNTExNDM3MQ",
+        "date": "2024-01-09"
+      },
+      {
+        "title": "Case",
+        "imageUrl": "", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/6_caseihc?fr=sYjVlMzQ2OTY2MzU",
+        "date": "2023-08-04"
+      },
+      {
+        "title": "Deutz",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/55/55d410118afc68feec011690db828b66ac86b241.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/deutz-email?e=1933007/50652849",
+        "date": "2024-01-08"
+      },
+      {
+        "title": "Fendt",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/24/24e3a34e96c628a388557abdd43e1449315b191d.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/14_fendt?fr=sM2VkYzExNDM3MQ",
+        "date": "2023-08-10"
+      },
+      {
+        "title": "Valtra",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/31/31a9c3bbbc06f591bc1ec371693a2e4c85f84e99.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/15_valmet?fr=sNjAwNTQ2OTY2MzU",
+        "date": "2024-11-15"
+      },
+      {
+        "title": "David Brown",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/60/609a617e76e96f2b8bfd99175a6a32845783edd5.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/8_david_brown?fr=sMjBmZTExNDM3MQ",
+        "date": "2022-12-02"
+      },
+      {
+        "title": "Fiat",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/a4/a458ab23f6406d4b46ed678a4a1a898f2baf1d5e.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/5_fiat_a33e72cab58da9?fr=sNjFjYTExNDM3MQ",
+        "date": "2023-08-11"
+      },
+     {
+        "title": "Renault",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/4e/4efe5d08adc7e34d6545dc8d0d360dd4a2dfff18.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/10_ren-urs?fr=sNjkzNzExNDM3MQ",
+        "date": "2023-08-11"
+      },
+      {
+        "title": "Zetor",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/d2/d23107fe18a4ed69a4255e18f639ec851ccd3237.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/9_zetor?fr=sMzA5MTExNDM3MQ",
+        "date": "2022-02-28"
+      },
+      {
+        "title": "Landini, Leyland, Same, Kubota, Hanomag",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/8a/8acfa2afb6de855cdea698ad5addb28b9a42420b.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/17_landini_leyland_same_web?e=1933007/42688262",
+        "date": "2023-05-22"
+      },
+      {
+        "title": "Lamborgini, Universal, Ursus",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/e5/e5b3849ac52d1f705d5915ac2f52aa80bc3c3b7b.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/16_lambo_universal_ursus_web?e=1933007/42688231",
+        "date": "2022-04-29"
+      },
+      {
+         "title": "JCB / MF Diggers / Case / Hitachi",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/02/02c7ffe337bd7e7fcb759044ddf125f7de7e14d6.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/11_industrial?fr=sOGZiNDQ2OTY2MzU",
+        "date": "2022-04-01"
+      },
+      {
+        "title": "Vintage",
+        "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/68/6810c35ecdfcf42232fe8f774cbe46917b882434.png", 
+        "pdfUrl": "https://issuu.com/qtponline/docs/3_vintage_web?fr=sZWIyNjExNDM3MQ",
+        "date": "2022-02-07"
+      }
+]
