@@ -1,5 +1,11 @@
 [
-{
+    {
+      "title": "CNH Folleto del producto",
+      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cover%20Page.jpg",
+      "pdfUrl": "https://issuu.com/qtponline/docs/cnh_brochure_2025?fr=xKAE9_zMzMw",
+      "date": "2025-04-15"
+    },
+    {
       "title": "QTP Radiadores y Tapas",
       "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Radiators%20caps%20catalouge.jpg", 
       "pdfUrl": "https://issuu.com/qtponline/docs/radiators_caps_catalogue_2025?fr=xKAE9_zU1NQ",
