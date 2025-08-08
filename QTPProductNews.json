@@ -49,7 +49,7 @@
         "date": "2024-07-01"
       },
       {
-        "title": "Product News Spring 2024",
+        "title": "Product News Spring 2025",
         "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20Spring%202024.png",
         "pdfUrl": "https://issuu.com/qtponline/docs/march-product-news-2024-issue-3",
         "date": "2024-06-01"
@@ -61,7 +61,7 @@
       "date": "2025-02-26"
     },
     {
-      "title": "February Product News 2024",
+      "title": "February Product News 2025",
       "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20Feb%202025%20Cover.jpg", 
       "pdfUrl": "https://issuu.com/qtponline/docs/february_product_news_2025",
       "date": "2025-02-04"
@@ -74,4 +74,5 @@
     }
   ]
   
+
 
