@@ -1,30 +1,42 @@
 [
+   {
+    "title": "Borg Warner Brochure",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Web%20Banners/Borg%20Warner%20Brochure%20-%20June%202025-1.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_borg_warner_-_viscous_fans_turbochargers",
+    "date": "2025-06-04"
+  },
+   {
+    "title": "John Deere 7R / 8R Brochure",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Web%20Banners/John%20Deere%207R%208R%20Booklet%20-%20June%2025-1.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_john_deere_7r_8r_series_parts?fr=xKAE9_zMzMw",
+    "date": "2025-06-03"
+  },
   {
-    "title": "CNH Folleto del producto",
+    "title": "CNH Product Brochure",
     "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cover%20Page.jpg",
     "pdfUrl": "https://issuu.com/qtponline/docs/cnh_brochure_2025?fr=xKAE9_zMzMw",
     "date": "2025-04-15"
   },
   {
-    "title": "Radiadores y Tapones",
+    "title": "Radiators & Caps",
     "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/d2/d29532af7ea04f30adbc8697cc876b723c8b8cd2.jpg",
     "pdfUrl": "https://issuu.com/qtponline/docs/radiators_caps_catalogue_2025?fr=xKAE9_zU1NQ",
     "date": "2025-03-05"
   },
-  {
-    "title": "Catálogo LUK",
+    {
+    "title": "LUK Catalogue",
     "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/09/0939923ab291b8fb7dcf3b3685b37ae20bb46ce9.jpg",
     "pdfUrl": "https://issuu.com/qtponline/docs/luk_catalogue_d14cf089eab073?fr=xKAE9_zU1NQ",
     "date": "2024-10-25"
   },
-  {
-    "title": "Bombas Hidráulicas",
-    "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/df/df340dec80e4db448fa71f16ef7762948a295ba1.png",
+    {
+    "title": "Hydraulic Pumps",
+    "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/42/42d2902d9ef0ecdf873e4b23fb735dd25c797990.jpg",
     "pdfUrl": "https://issuu.com/qtponline/docs/16_hydraulic_pumps?fr=xKAE9_zU1NQ",
-    "date": "2023-11-05"
+    "date": "0204-12-04"
   },
-  {
-    "title": "Productos Populares",
+    {
+    "title": "Popular Products",
     "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/df/df340dec80e4db448fa71f16ef7762948a295ba1.png",
     "pdfUrl": "https://issuu.com/qtponline/docs/popular-products-web?fr=xKAE9_zMzMw",
     "date": "2023-11-05"
