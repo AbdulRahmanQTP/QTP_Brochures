@@ -1,92 +1,111 @@
 [
-    {
-      "title": "Produktnachrichten September 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/September%202026/QTP%20Sept%20Product%20News%202026_Cover%20Page.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_september_2026_a4955ce14110c4?fr=sZTQ5ZDkxNzQ3Mjk",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "LED-Leuchten Angebot September 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/September%202026/LED%20Lights%20Offer%20Page%202026%20A4.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/10_off_selected_led_lamps_-_this_september_qtpo",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "QTP-Filter-Angebot August 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20Filters%2012%20FOR%20THE%20PRICE%20OF%2010.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_filters_10_2_promo_-_aug_2026?fr=xKAE9_zMzMw",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Beliebte QTP-Produkte",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20Mix%20Brand%20Popular%20Products%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_popular_products_2026?fr=xKAE9_zMzMw",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "CNH-Getriebekatalog 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20CNH%20Gearbox%20Catalogue%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/cnh_gearboxes_catalogue_-_2026?fr=xKAE9_zMzMw",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Ford New Holland-Filter",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/New%20Holland%20Filters%20Catalogue%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_new_holland_filters_catalogue_2026?fr=xKAE9_zMzMw",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "Beliebte Produkte von John Deere",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20John%20Deere%20Popular%20Products.jpg",
-      "pdfUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20John%20Deere%20Popular%20Products%2031.07.26.pdf",
-      "date": "2026-08-01"
-    },
-   {
-      "title": "100122 Flexi-Stem-LED-Leuchte",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/100122%20Beacon%20Page%20-%20Aug%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/100122_beacon_-_aug_2026?fr=xKAE9_zMzMw",
-      "date": "2026-07-31"
-    },
-   {
-      "title": "Produktneuheiten im August 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%20Product%20News%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_aug_2026?fr=xKAE9_zMzMw",
-      "date": "2026-07-22"
-    },
   {
-      "title": "QTP Vintage-Traktorleuchten – Juli 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Vintage%20Tractor%20Lights%20-%20July%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_vintage_tractor_lights_-_june_2026?fr=xKAE9_zMzMw",
-      "date": "2026-06-30"
-    },
+    "title": "Angebote im Oktober",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/October2026/october%20brochure.png",
+    "pdfUrl": "https://issuu.com/qtponline/docs/october_savings_qtponline",
+    "date": "2026-10-01"
+  },
   {
-      "title": "Produktneuheiten Juli 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/July%20Product%20News%202026_page.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_july_2026?fr=xKAE9_zMzMw",
-      "date": "2026-06-23"
-    },{
-      "title": "Produktneuigkeiten Juni 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/June%20Product%20News%202026%20Thumbnail.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_june_2026?fr=xKAE9_zMzMw",
-      "date": "2026-06-01"
-    },
+    "title": "Traktor-Kupplungen & Anhänger",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/Parts/Magazine.jpg",
+    "pdfUrl": "https://parts.qtponline.com/Linkage-Hitches",
+    "date": "2026-09-16"
+  },
   {
-      "title": "Katalog für Glas und Zubehör – 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Glass%20Catalogue%20-%20April%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_glass_accessories_catalogue_-_april_2026",
-      "date": "2026-04-21"
-    },
-    {
-      "title": "Produktneuheiten Mai 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Product%20News%20-%20May%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_may_2026",
-      "date": "2026-05-01"
-    },
+    "title": "Produktnachrichten September 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/September%202026/QTP%20Sept%20Product%20News%202026_Cover%20Page.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_september_2026_a4955ce14110c4?fr=sZTQ5ZDkxNzQ3Mjk",
+    "date": "2026-09-01"
+  },
   {
-      "title": "Produktneuheiten April 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20April%202026-1.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_april_2026",
-      "date": "2026-04-01"
+    "title": "LED-Leuchten Angebot September 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/September%202026/LED%20Lights%20Offer%20Page%202026%20A4.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/10_off_selected_led_lamps_-_this_september_qtpo",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "QTP-Filter-Angebot August 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20Filters%2012%20FOR%20THE%20PRICE%20OF%2010.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_filters_10_2_promo_-_aug_2026?fr=xKAE9_zMzMw",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "CNH-Getriebekatalog 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20CNH%20Gearbox%20Catalogue%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/cnh_gearboxes_catalogue_-_2026?fr=xKAE9_zMzMw",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Beliebte Produkte von John Deere",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20John%20Deere%20Popular%20Products.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_john_deere_popular_products_?fr=xKAE9_zMzMw",
+    "date": "2026-08-01"
+  },
+  {
+    "title": "Beliebte QTP-Produkte",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/QTP%20Mix%20Brand%20Popular%20Products%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_popular_products_2026?fr=xKAE9_zMzMw",
+    "date": "2026-08-01"
+  },
+  {
+    "title": "Ford New Holland-Filter",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%202026/New%20Holland%20Filters%20Catalogue%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_new_holland_filters_catalogue_2026?fr=xKAE9_zMzMw",
+    "date": "2026-08-01"
+  },
+  {
+    "title": "100122 Flexi-Stem-LED-Leuchte",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/100122%20Beacon%20Page%20-%20Aug%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/100122_beacon_-_aug_2026?fr=xKAE9_zMzMw",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Produktneuheiten im August 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/August%20Product%20News%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_aug_2026?fr=xKAE9_zMzMw",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Beliebte Produkte von Massey Ferguson 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Massey%20Ferguson%20Popular%20Products%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_massey_ferguson_popular_products_2026?fr=xKAE9_zMzMw",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "QTP Vintage-Traktorleuchten – Juli 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Vintage%20Tractor%20Lights%20-%20July%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_vintage_tractor_lights_-_june_2026?fr=xKAE9_zMzMw",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Produktneuheiten Juli 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/July%20Product%20News%202026_page.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_july_2026?fr=xKAE9_zMzMw",
+    "date": "2026-06-23"
+  },
+  {
+    "title": "Produktneuigkeiten Juni 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/June%20Product%20News%202026%20Thumbnail.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_june_2026?fr=xKAE9_zMzMw",
+    "date": "2026-06-01"
+  },
+  {
+    "title": "Katalog für Glas und Zubehör – 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Glass%20Catalogue%20-%20April%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_glass_accessories_catalogue_-_april_2026",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "Produktneuheiten Mai 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Product%20News%20-%20May%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_may_2026",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Produktneuheiten April 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20April%202026-1.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_april_2026",
+    "date": "2026-04-01"
   },
   {
     "title": "QTP-Steckverbinder",
@@ -143,6 +162,12 @@
     "date": "2026-01-16"
   },
   {
+    "title": "Neuer John Deere-Filterkatalog 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/New%20John%20Deere%20Filters%20Catalogue%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_john_deere_filters_catalogue_-_jan_2026",
+    "date": "2025-12-17"
+  },
+  {
     "title": "QTP Hydraulikpumpen Rexroth (Bosch) – Dez. 2025",
     "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Hydraulic%20Pumps%20Rexroth%20-%20Dec%202025.jpg",
     "pdfUrl": "https://issuu.com/qtponline/docs/qtp_hydraulic_pumps_rexroth_bosch_-_dec_2025",
@@ -155,15 +180,15 @@
     "date": "2025-12-01"
   },
   {
-    "title": "CNH Produktbroschüre",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cover%20Page.jpg",
-    "pdfUrl": "https://issuu.com/qtponline/docs/cnh_brochure_2025?fr=xKAE9_zMzMw",
-    "date": "2025-04-15"
+    "title": "Borg-Warner-Broschüre",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Web%20Banners/Borg%20Warner%20Brochure%20-%20June%202025-1.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_borg_warner_-_viscous_fans_turbochargers",
+    "date": "2025-06-04"
   },
   {
-    "title": "Kühler & Kappen",
-    "imageUrl": "https://s3-eu-west-1.amazonaws.com/webshop/data/thumbs/d2/d29532af7ea04f30adbc8697cc876b723c8b8cd2.jpg",
-    "pdfUrl": "https://issuu.com/qtponline/docs/radiators_caps_catalogue_2025?fr=xKAE9_zU1NQ",
-    "date": "2025-03-05"
+    "title": "John Deere 7R/8R Broschüre",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Web%20Banners/John%20Deere%207R%208R%20Booklet%20-%20June%2025-1.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_john_deere_7r_8r_series_parts?fr=xKAE9_zMzMw",
+    "date": "2025-06-03"
   }
 ]
